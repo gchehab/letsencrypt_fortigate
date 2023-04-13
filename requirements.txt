@@ -1,0 +1,6 @@
+fortigate-api
+keyring
+#win32crypt
+pycryptodome
+#pypiwin32
+pyyaml
