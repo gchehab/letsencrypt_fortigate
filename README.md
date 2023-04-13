@@ -10,3 +10,6 @@ TO DO:
 - Integrate own certificate generation logic
 - Add logs on all operations and alert for certificates to expire
 - Document the minimum set of API roles needed to run
+
+DISCLAIMER:
+NOT READY FOR PRODUCTION USE - For now just a proof of concept
