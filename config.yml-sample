@@ -1,0 +1,6 @@
+'server_1_ip':
+    username: username
+    secret: password
+'server_2_ip':
+    username: username
+    secret: '<API KEY>'
